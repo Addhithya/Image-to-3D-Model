@@ -1,0 +1,8 @@
+torch
+rembg
+pillow
+trimesh
+matplotlib
+pyrender
+transformers
+diffusers
