@@ -50,7 +50,7 @@ This project uses Tencent's [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2
 - **`Pillow`**: Image processing
 - **`Hunyuan3D`**: 2D-to-3D model pipeline
 - **`trimesh` & `pyrender`**: 3D visualization
-- **`os`**, **`torch` **: General-purpose tools (File management & to run ML model)
+- **`os`**, **`torch`**: General-purpose tools (File management & to run ML model)
 
 ---
 
