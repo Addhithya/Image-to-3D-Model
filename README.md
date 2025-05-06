@@ -44,6 +44,16 @@ This project uses Tencent's [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2
    ```bash
    python3 main.py
 
+## Screenshots of a test input
+### Raw input (Screenshot)
+![Input](/test.png)
+
+### Preprocessed (Background removed and Resized)
+![Input](/temp_prepped.png)
+
+### Output Mesh
+![Input](/result/output0.png)  ![Input](/result/output1.png)
+
 ## Libraries Used
 
 - **`rembg`**: Background removal
